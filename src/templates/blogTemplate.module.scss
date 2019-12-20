@@ -1,0 +1,45 @@
+.blog {
+    h1 {
+        background-color: hotpink;
+        margin: 0px;
+        padding: 30px;
+        font-size: 30px;
+        border: solid 1px hotpink;
+        border-radius: 30px;
+    }
+    h2 {
+        color: hotpink;
+        background-color: black;
+        margin: 15px;
+        padding: 30px;
+        font-size: 25px;
+        border: solid 1px black;
+        border-radius: 25px;
+    }
+    h3 {
+        font-size: 20px;
+        margin: 15px 0px 15px 45px;
+        padding: 0px;
+    }
+    p {
+        font-size: 15px;
+        margin: 15px 0px 15px 45px;
+        padding: 0px;
+    }
+    img {
+        max-width: 128px;
+        max-height: 127px;
+        margin: 0px 5px 5px 45px;
+        padding: 0px;
+    }
+    .image {
+        margin: 0px;
+        padding: 0px;
+        max-height: 127px;
+    }
+    pre {
+        font-size: 15px;
+        margin: 15px 0px 15px 60px;
+        padding: 0px;
+    }
+}
